@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  CleanArchitectureSampleCode
+
+  Created by Victor on 2021/2/25.
+  
+*/
+
+"Err_Msg_Gen_Response_Failed_Message" = "Sorry, we meet some problems \n Please try later";
